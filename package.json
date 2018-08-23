@@ -1,0 +1,12 @@
+{
+  "name": "Rotten-Witch",
+  "version": "1.0.0",
+  "description": "Hi the dummies",
+  "main": "bot.js",
+  "author": "tusia",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^2.4.4",
+    "winston-loggly-bulk": "^2.0.5-beta"
+  }
+}
